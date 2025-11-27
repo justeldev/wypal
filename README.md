@@ -4,7 +4,7 @@
 
 > Transform cluttered AI-generated text into clean, readable content instantly. Remove formatting artifacts, markdown symbols, and AI patterns with a 100% private, browser-based tool.
 
-[![Website](https://img.shields.io/badge/website-wypal.app-FF5722)](https://wypal.app/)
+[![Website](https://img.shields.io/badge/website-wypal.site-FF5722)](https://wypal.site/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/eluthmaaniy?style=social)](https://twitter.com/eluthmaaniy)
 
@@ -97,7 +97,7 @@ No installation required! Wypal runs entirely in your web browser.
 
 ### Usage
 
-1. **Visit** [wypal.app](https://wypal.app/)
+1. **Visit** [wypal.site](https://wypal.site/)
 2. **Paste** your AI-generated text into the input area
 3. **Choose** your cleaning options or use a quick preset
 4. **View** the cleaned result instantly
@@ -116,7 +116,7 @@ No installation required! Wypal runs entirely in your web browser.
 - **Frontend Framework**: Vanilla JavaScript (ES6+)
 - **Styling**: Tailwind CSS
 - **Icons**: Remix Icon
-- **Fonts**: Kumbh Sans (Google Fonts)
+- **Fonts**: Google Sans (Google Fonts)
 - **Build**: HTML5, CSS3, JavaScript
 
 ---
@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **El Uthmaaniy**
 
 - Twitter: [@eluthmaaniy](https://twitter.com/eluthmaaniy)
-- Website: [wypal.app](https://wypal.app/)
+- Website: [wypal.site](https://wypal.site/)
 
 ---
 
@@ -269,7 +269,7 @@ Need help or have questions?
 
 <div align="center">
 
-**[Try Wypal Now](https://wypal.app/)** | **[Report Bug](https://github.com/eluthmaaniy/wypal/issues)** | **[Request Feature](https://github.com/eluthmaaniy/wypal/issues)**
+**[Try Wypal Now](https://wypal.site/)** | **[Report Bug](https://github.com/eluthmaaniy/wypal/issues)** | **[Request Feature](https://github.com/eluthmaaniy/wypal/issues)**
 
 Made with ❤️ by [El Uthmaaniy](https://twitter.com/eluthmaaniy)
 
